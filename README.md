@@ -1,6 +1,6 @@
 ![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 <h1 align="center">Hi 👋, I'm Purva Sinha</h1>
-<h3 align="center">An Aspiring Data Analyst.</h3>
+<h3 align="center">Aspiring Data Analyst.</h3>
 <p align="center"><img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="150" /> </p>
 
 <h3>About me:</h3> 
